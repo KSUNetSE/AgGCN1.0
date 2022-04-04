@@ -13,7 +13,7 @@ Data and code for Anopheles gambiae gene co-expression network, link of the pape
    
 2. visualization og GO term enrichment data can be found in SupplementalFigures: 
 
-   The figures show that the communities are enriched for different GO terms. For example, KUANGetal_FigS4_GOplot_community1.pdf shows the GO terms that are enriched in community 1.
+   A. The figures show that the communities are enriched for different GO terms. For example, KUANGetal_FigS4_GOplot_community1.pdf shows the GO terms that are enriched in community 1.
   
 3. raw data and analysis data can be found in SupplementalTables:
 
