@@ -21,7 +21,7 @@ Data and code for Anopheles gambiae gene co-expression network, link of the pape
    
    B. KUANGetal_TableS2_GOenrichmentCores.xlsx, a full list of the GO terms that are enriched in the cores.
    
-   C. KUANGetal_TableS3_GOKEGGenrichmentCommunities.xlsx, a full list of GO terms that are enriched in different communities. The spreadsheet also contains a list of enriched genes for the corresponding GO term.
+   C. KUANGetal_TableS3_GOKEGGenrichmentCommunities.xlsx, a full list of GO/KEGG IDs that are enriched in different communities. The spreadsheet also contains a list of enriched genes for the corresponding GO term.
    
    D. KUANGetal_TableS4_AgGCN1.0_Dataset_conditioninfo.xlsx, the information regarding the conditions we used to construct the network, including the condition number (which can be found in KUANGetal_TableS1_Anopheles-gambiae_EXPR-STATS_VB-2019-02_final.xlsx), platform type, platform name, platform identifier, experiment indetifier, number of genes probed, authors, tisse, physiology, condition, etc.
      
