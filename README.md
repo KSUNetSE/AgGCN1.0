@@ -12,9 +12,11 @@ Data and code for Anopheles gambiae gene co-expression network, link of the pape
    D. communities.pdf, a visualization (thorugh gephi) of the community distribution of the genes.
    
 2. visualization og GO term enrichment data can be found in SupplementalFigures: 
+
    The figures show that the communities are enriched for different GO terms. For example, KUANGetal_FigS4_GOplot_community1.pdf shows the GO terms that are enriched in community 1.
   
 3. raw data and analysis data can be found in SupplementalTables:
+
    A. KUANGetal_TableS1_Anopheles-gambiae_EXPR-STATS_VB-2019-02_final.xlsx, the raw data used for the network construction, including platform type (microarray, RNA-seq, etc), platform name (EMBL A.gambiae MMC1 20k v1.0, Affymetrix GeneChip® Plasmodium/Anopheles Genome Array), platform identifier (GEO/ArrayExpress), Experiment identifier (ArrayExpress/GEO/bioproject), publications (authors), life stage, tissue, sex, physiology, gene ID, conditions.
    
    B. KUANGetal_TableS2_GOenrichmentCores.xlsx, a full list of the GO terms that are enriched in the cores.
