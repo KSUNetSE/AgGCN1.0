@@ -25,3 +25,10 @@ Data and code for Anopheles gambiae gene co-expression network, link of the pape
    
    D. KUANGetal_TableS4_AgGCN1.0_Dataset_conditioninfo.xlsx, the information regarding the conditions we used to construct the network, including the condition number (which can be found in KUANGetal_TableS1_Anopheles-gambiae_EXPR-STATS_VB-2019-02_final.xlsx), platform type, platform name, platform identifier, experiment indetifier, number of genes probed, authors, tisse, physiology, condition, etc.
      
+4. code
+   
+   A. PCC_edge_list.py, generate edge list.
+   
+   B. s-core.py, find the core of the network.
+   
+   C. sliding_threshold_fitting.py, find the sliding threholds.
