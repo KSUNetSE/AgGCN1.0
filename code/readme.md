@@ -1,5 +1,5 @@
 ﻿# Gene Co-expression Network Generation
-This is a Python package for the generation of Gene Co-expression Network.
+This is a Python package for the generation of Gene Co-expression Networks.
 
 # Requirements
 Python environment 3.6.0+.
